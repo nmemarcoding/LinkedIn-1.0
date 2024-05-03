@@ -53,7 +53,7 @@ async function UserInformation() {
 
         <div className="flex justify-between w-full px-4 text-sm">
             <p className="font-semibold text-grat-400">Comments</p>
-            <p className="text-blue-400">0</p>
+            <p className="text-blue-400">0.0</p>
         </div>
     </div>
   )
